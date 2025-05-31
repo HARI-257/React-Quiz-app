@@ -1,0 +1,34 @@
+.Quiz-container{
+    display: flex;
+    max-width: 400px;
+    background-color: rgb(255, 244, 240);
+    box-shadow: silver 0px 0px 10px 0px;
+    padding: 20px;
+    margin: auto;
+}
+
+.question{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.btn-start{
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.btn{
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(240, 203, 154);
+}
